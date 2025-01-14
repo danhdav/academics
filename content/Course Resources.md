@@ -1,4 +1,5 @@
-<img src="cycle.png" alt="resources" width="300" height="270"/>
+<!-- ![cycle](cycle.png) -->
+<img src="cycle.png" alt="resources" width="200" height="190"/>
 
 Here are some resources that have helped me so far:
 
