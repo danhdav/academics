@@ -56,12 +56,13 @@ I have not listed courses that I have taken through dual-enrollment or high scho
 
 ### Spring 2025
 
-| Course Number | Course Name             | Professor          | Rating | Comments |
-| ------------- | ----------------------- | ------------------ | ------ | -------- |
-| CS 4347       | Database Systems        | Pushpa Kumar       | TBD    |   TBD    |
-| CS 4337       | Programming Paradigms   | Gity Karami        | TBD    |   TBD    |
-| CS 4341/4141  | Digital Logic           | Doug Degroot       | TBD    |   TBD    |
-| CS 3354       | Software Engineering    | Priya Narayanasami | TBD    |   TBD    |
+| Course Number | Course Name                 | Professor          | Rating | Comments |
+| ------------- | --------------------------- | ------------------ | ------ | -------- |
+| CS 4347       | Database Systems            | Pushpa Kumar       | TBD    |   TBD    |
+| CS 4365       | Artifical Intelligence      | Vlad Birsan        | TBD    |   TBD    |
+| CS 4341/4141  | Digital Logic               | Alice Wang         | TBD    |   TBD    |
+| CS 3354       | Software Engineering        | Priya Narayanasami | TBD    |   TBD    |
+| CS 3162       | Professional Responsibility | John Cole          | TBD    |   TBD    |
 
 
-I plan to study in Madrid, Spain for Fall of 2025. I will update in late 2025 regarding those course equivalencies and ratings.
+I plan to study in Madrid, Spain for Fall of 2025. I will update in late 2025 regarding course equivalencies and ratings.
