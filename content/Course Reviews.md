@@ -18,12 +18,12 @@ I have not listed courses that I have taken through dual-enrollment or high scho
 
 ### Spring 2023
 
-| Course Number | Course Name                               | Professor       | Rating                                | Comments                                                                                                                                                                 |
-| ------------- | ----------------------------------------- | --------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| CS 2305       | Discrete Math I                           | Wei-Pang Chin   | <span style="color:red">2/5</span>    | Professor is extremely nice, but the homework assignments are time-consuming and the exams are somewhat difficult.                                                       |
-| CS 2336       | Computer Science II                       | Gordon Arnold   | <span style="color:orange">3/5</span> | Professor was in the hospital for a while, so we had to cram a lot of content towards the end. Zybooks-based class. Exams were multiple choice and moderately difficult. |
-| MUSI 1306     | Understanding Music                       | Katrina Rushing | <span style="color:green">5/5</span>  |                                                                                                                                                                          |
-| EPICS 2200    | Engineering Projects in Community Service | Alex Steele     | <span style="color:green">5/5</span>  | We had to showcase our project to the TAs as well as on the final day to visiting company representatives that came. Pretty cool class!                                  |
+| Course Number | Course Name                               | Professor       | Rating                               | Comments                                                                                                                                                                 |
+| ------------- | ----------------------------------------- | --------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CS 2305       | Discrete Math I                           | Wei-Pang Chin   | <span style="color:red">2/5</span>   | Professor is extremely nice, but the homework assignments are time-consuming and the exams are somewhat difficult.                                                       |
+| CS 2336       | Computer Science II                       | Gordon Arnold   | N/A                                  | Professor was in the hospital for a while, so we had to cram a lot of content towards the end. Zybooks-based class. Exams were multiple choice and moderately difficult. |
+| MUSI 1306     | Understanding Music                       | Katrina Rushing | <span style="color:green">5/5</span> |                                                                                                                                                                          |
+| EPICS 2200    | Engineering Projects in Community Service | Alex Steele     | <span style="color:green">5/5</span> | We had to showcase our project to the TAs as well as on the final day to visiting company representatives that came. Pretty cool class!                                  |
 
 ### Fall 2023
 
@@ -56,13 +56,11 @@ I have not listed courses that I have taken through dual-enrollment or high scho
 
 ### Spring 2025
 
-| Course Number | Course Name                 | Professor          | Rating | Comments |
-| ------------- | --------------------------- | ------------------ | ------ | -------- |
-| CS 4347       | Database Systems            | Pushpa Kumar       | TBD    |   TBD    |
-| CS 4365       | Artifical Intelligence      | Vlad Birsan        | TBD    |   TBD    |
-| CS 4341/4141  | Digital Logic               | Alice Wang         | TBD    |   TBD    |
-| CS 3354       | Software Engineering        | Priya Narayanasami | TBD    |   TBD    |
-| CS 3162       | Professional Responsibility | John Cole          | TBD    |   TBD    |
+| Course Number | Course Name                 | Professor          | Rating                                | Comments  |
+| ------------- | --------------------------- | ------------------ | ------------------------------------- | --------- |
+| CS 4347       | Database Systems            | Pushpa Kumar       | <span style="color:green">5/5</span>  | TBD       |
+| CS 4365       | Artifical Intelligence      | Vlad Birsan        | <span style="color:orange">3/5</span> | TBD       |
+| CS 4341/4141  | Digital Logic               | Alice Wang         | <span style="color:green">5/5</span>  | TBD       |
+| CS 3354       | Software Engineering        | Priya Narayanasami | <span style="color:red">2/5</span>    | TBD       |
+| CS 3162       | Professional Responsibility | John Cole          | <span style="color:red">2/5</span>    | Busy work |
 
-
-I plan to study in Madrid, Spain for Fall of 2025. I will update in late 2025 regarding course equivalencies and ratings.
